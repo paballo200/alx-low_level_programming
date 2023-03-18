@@ -2,7 +2,7 @@
 /**
  * main - Hello world
  *
- * Return: Always 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
