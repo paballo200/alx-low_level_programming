@@ -10,6 +10,7 @@ int main(void)
 	print("size of a float: %d byte(s)\n" size of(float));
 	print("size of a long int: %d byte(s)\n", size of(long int));
 	print("size of long long int: %d byte(s)\n, size of(long long int));
+	printf("size of int : % d byte(s)\n, size of(int));
 	return (0);
 }
 
